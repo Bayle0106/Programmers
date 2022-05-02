@@ -6,7 +6,7 @@ using namespace std;
 string solution(string str) {
 	int sum = 0;
 	int pos = 0;
-	bool check = true;
+	bool check = true; 
 
 	//입력받은 str이 빈 경우
 	if (str.size() == 0) return "";
